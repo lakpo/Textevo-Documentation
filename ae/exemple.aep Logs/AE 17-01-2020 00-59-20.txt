@@ -1,0 +1,8 @@
+  17/01/2020 00:59:20: Starting composition “words by words”.
+
+  Output To: H:\sync\MEGAsync\Dev\Textevo\Doc\textevo-documentation\renders\words_by_words.avi    17/01/2020 00:59:21: Finished composition “words by words”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 17/01/2020 at 00:59:21
+

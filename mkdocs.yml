@@ -1,0 +1,13 @@
+site_name: Textevo documentation
+theme:
+  name: 'material'
+  palette:
+    primary: 'black'
+    accent: 'blue'
+
+
+nav:
+    - Introduction : index.md
+    - How work :
+      - Installation : installation.md
+

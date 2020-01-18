@@ -1,22 +1,0 @@
-Adobe After Effects v17.0.1 Windows 64 render log for project “exemple.aep”
-
-Rendering started on 17/01/2020 at 00:59:48
-
-  17/01/2020 00:59:48: Starting composition “letters by letters”.
-
-  Output To: H:\sync\MEGAsync\Dev\Textevo\Doc\textevo-documentation\renders\letters_by_letters.avi    17/01/2020 00:59:49: Finished composition “letters by letters”.
-
-
-  17/01/2020 00:59:49: Starting composition “lines by lines”.
-
-  Output To: H:\sync\MEGAsync\Dev\Textevo\Doc\textevo-documentation\renders\lines_by_lines.avi    17/01/2020 00:59:50: Finished composition “lines by lines”.
-
-
-  17/01/2020 00:59:50: Starting composition “words by words”.
-
-  Output To: H:\sync\MEGAsync\Dev\Textevo\Doc\textevo-documentation\renders\words_by_words.avi    17/01/2020 00:59:51: Finished composition “words by words”.
-
-
-  Total Time Elapsed: 3 Seconds
-Log closed on 17/01/2020 at 00:59:51
-
